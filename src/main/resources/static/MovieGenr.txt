@@ -1,0 +1,1 @@
+[{"film_genr_id":"1","film_genr_name":"Hài Hước"},{"film_genr_id":"2","film_genr_name":"Kinh dị"},{"film_genr_id":"3","film_genr_name":"Hành động"},{"film_genr_id":"4","film_genr_name":"Tình cảm"},{"film_genr_id":"5","film_genr_name":"Hoạt hình"}]

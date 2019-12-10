@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "HikariConfig",
+      "type": "java.lang.String",
+      "description": "Description for HikariConfig."
+    },
+    {
+      "name": "HikariConfig",
+      "type": "java.lang.String",
+      "description": "Description for HikariConfig."
+    }
+  ] }

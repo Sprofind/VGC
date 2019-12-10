@@ -1,0 +1,1 @@
+[{"seatId":"1","seatName":"Thường","price":"50000"},{"seatId":"2","seatName":"VIP","price":"70000"},{"seatId":"3","seatName":"Couple","price":"160000"}]
